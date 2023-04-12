@@ -1,0 +1,31 @@
+export { default as Ecommerce } from './CartePersonnel';
+export { default as Employees } from './Employees';
+export { default as ColorPicker } from './DossierMedical';
+export { default as ColorMapping } from './Charts/ColorMapping';
+export { default as Formulaire } from './Formulaire';
+export { default as Page1 } from './Page1';
+export { default as Engagement } from './Engagement';
+export { default as DossierMedical } from './DossierMedical';
+export { default as CartePersonnel } from './CartePersonnel';
+export { default as AttestationBesoin } from './AttestationBesoin';
+export { default as AttestationEtatCevil } from './AttestationEtatCevil';
+export { default as CertficatDaptitudePhysique } from './CertficatDaptitudePhysique';
+export { default as CertificatDeLogement } from './CertificatDeLogement';
+export { default as ParcourScolaire } from './ParcourScolaire';
+export { default as CertificaVieCollective } from './CertificaVieCollective';
+export { default as ExenorationFrais } from './ExenorationFrais';
+export { default as AffichageFréres } from './AffichageFréres';
+export { default as AffichageParcour } from './AffichageParcour';
+export { default as AffichageAttestationBesoin } from './AffichageAttestationBesoin';
+export { default as AffichageCEtatCivil } from './AffichageCEtatCivil';
+export { default as AffichageCartePersonnel} from './AffichageCartePersonnel';
+export { default as AffichageCertifatVieCollectif} from './AffichageCertifatVieCollectif';
+export { default as AffichageCertificatDAptitude} from './AffichageCertificatDAptitude';
+export { default as AffichageDossierMedical} from './AffichageDossierMedical';
+export { default as AffichageCertificatLogement} from './AffichageCertificatLogement';
+export { default as AffichageEngagement} from './AffichageEngagement';
+export { default as AffichageExonérationFrais} from './AffichageExonérationFrais';
+export { default as AffichagePage1} from './AffichagePage1';
+export { default as Items} from './Items';
+
+
